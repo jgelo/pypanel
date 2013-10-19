@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: PyPanel
+Version: 2.4
+Summary: Lightweight panel/taskbar for X11 Window Managers
+Home-page: http://pypanel.sourceforge.net
+Author: Jon Gelo
+Author-email: jongelo@gmail.com 
+License: GPL
+Description: See README for more information
+Platform: POSIX
